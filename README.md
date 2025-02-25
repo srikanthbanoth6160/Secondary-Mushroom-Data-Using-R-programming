@@ -1,4 +1,4 @@
-### ἳ1 Secondary Mushroom Data Set
+### Secondary Mushroom Data Set
 A machine learning project to classify mushrooms as **edible** or **poisonous** using various classification models.
 
 ## 🚀 Features
